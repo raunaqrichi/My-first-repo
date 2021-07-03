@@ -1,0 +1,141 @@
+#zero{
+    color: rgb(143, 7, 7);
+    background-color: floralwhite;
+    height: 55px;
+    width: 400px;
+    border: 10px solid rosybrown;
+    margin-left: 60px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    font-style: oblique;
+}
+img{
+    margin: 10px;
+    border: 5px groove black;
+    border-radius: 100px;
+}
+#one{
+    background-color: darkred;
+    height: 25px;
+    width: 175px;
+    color: white;
+    font-style: inherit;
+}
+#two{
+    background-color: darkolivegreen;
+    height: 25px;
+    width: 275px;
+    color: white;
+    font-style: inherit;
+}
+#three{
+    background-color: darkorange;
+    height: 25px;
+    width: 285px;
+    color: white;
+    font-style: inherit;
+}
+#four{
+    background-color: darkorchid;
+    height: 25px;
+    width: 285px;
+    color: white;
+    font-style: inherit;
+}
+#five{
+    background-color: darkseagreen;
+    height: 25px;
+    width: 375px;
+    color: white;
+    font-style: inherit;
+}
+#six{
+    background-color: darkslateblue;
+    height: 25px;
+    width: 325px;
+    color: white;
+    font-style: inherit;
+}
+#seven{
+    background-color: darkslategrey;
+    height: 25px;
+    width: 580px;
+    color: white;
+    font-style: inherit;
+}
+#eight{
+    background-color: darkturquoise;
+    height: 25px;
+    width: 225px;
+    color: white;
+    font-style: inherit;
+}
+#nine{
+    background-color: deeppink;
+    height: 25px;
+    width: 375px;
+    color: white;
+    font-style: inherit;
+}
+#ten{
+    background-color: dimgray;
+    height: 25px;
+    width: 385px;
+    color: white;
+    font-style: inherit;
+}
+#eleven{
+    background-color: darkblue;
+    height: 25px;
+    width: 385px;
+    color: white;
+    font-style: inherit;
+}
+#twelve{
+    background-color: rgb(182, 132, 7);
+    height: 25px;
+    width: 285px;
+    color: white;
+    font-style: inherit;
+}
+.one{
+    background-color: wheat;
+    margin: 50px;
+    text-align: center;
+    padding: 25px;
+    color: teal;
+    border: 15px dashed violet;
+    border-radius: 20px;
+
+}
+.two{
+    background-color:lightgray;
+    margin: 50px;
+    text-align: inherit;
+    padding: 25px;
+    color: darkmagenta;
+    border: 15px dashed goldenrod;
+    border-radius: 20px;
+}
+.three{
+    background-color: lightgreen;
+    margin: 50px;
+    text-align: inherit;
+    padding: 25px;
+    color: darkslategray;
+    border: 15px dashed darkcyan;
+    border-radius: 20px;
+}
+.four{
+    background-color: lightpink;
+    margin: 50px;
+    text-align: inherit;
+    padding: 25px;
+    color: forestgreen;
+    border: 15px dashed hotpink;
+    border-radius: 20px;
+}
+.five{
+    color: black;
+}
