@@ -1,9 +1,9 @@
 #thirteen{
-    background-color: mediumpurple;
+    background-color: lightgoldenrodyellow;
     border: 20px solid cadetblue;
     border-radius: 10px;
     margin: 75px;
-    padding: 50px;
+    padding: 10px;
     
 }
 #zero{
@@ -20,7 +20,7 @@
 }
 img{
     margin: 10px;
-    border: 5px groove black;
+    border: 5px groove yellowgreen;
     border-radius: 100px;
 }
 #one{
@@ -103,7 +103,7 @@ img{
 #twelve{
     background-color: rgb(182, 132, 7);
     height: 25px;
-    width: 285px;
+    width: 385px;
     color: white;
     font-style: inherit;
 }
@@ -113,7 +113,7 @@ img{
     text-align: center;
     padding: 25px;
     color: teal;
-    border: 15px dashed violet;
+    border: 15px solid violet;
     border-radius: 20px;
 
 }
@@ -123,7 +123,7 @@ img{
     text-align: inherit;
     padding: 25px;
     color: darkmagenta;
-    border: 15px dashed goldenrod;
+    border: 15px solid goldenrod;
     border-radius: 20px;
 }
 .three{
@@ -132,7 +132,7 @@ img{
     text-align: inherit;
     padding: 25px;
     color: darkslategray;
-    border: 15px dashed darkcyan;
+    border: 15px solid darkcyan;
     border-radius: 20px;
 }
 .four{
@@ -141,7 +141,7 @@ img{
     text-align: inherit;
     padding: 25px;
     color: forestgreen;
-    border: 15px dashed hotpink;
+    border: 15px solid hotpink;
     border-radius: 20px;
 }
 .five{
