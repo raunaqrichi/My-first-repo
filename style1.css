@@ -1,3 +1,11 @@
+#thirteen{
+    background-color: mediumpurple;
+    border: 20px solid cadetblue;
+    border-radius: 10px;
+    margin: 75px;
+    padding: 50px;
+    
+}
 #zero{
     color: rgb(143, 7, 7);
     background-color: floralwhite;
@@ -98,9 +106,6 @@ img{
     width: 285px;
     color: white;
     font-style: inherit;
-}
-#thirteen{
-    background-color: orchid;
 }
 .one{
     background-color: wheat;
